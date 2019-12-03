@@ -141,13 +141,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi3-modelB.jpg" alt="Raspberry Pi 3 model B"></a>
+              <a href="#"><img class="card-img-top" src="Images/cam-modul-V2.jpg" alt="Camera Module V2"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi 3 Model B</a>
+                  <a href="#">Camera Module V2</a>
                 </h4>
-                <h5>44.99€</h5>
-                <p class="card-text">Single-board computer with wireless LAN and Bluetooth connectivity</p>
+                <h5>39.99€</h5>
+                <p class="card-text">The Raspberry Pi Camera Module v2 replaced the original Camera Module in April 2016</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -157,13 +157,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi2-model-B.jpg" alt="Raspberry Pi 2 model B"></a>
+              <a href="#"><img class="card-img-top" src="Images/pi-noir-camera-V2.jpg" alt="Pi NoIR Camera V2"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi2 Model B</a>
+                  <a href="#">Pi NoIR Camera V2</a>
                 </h4>
-                <h5>34.99€</h5>
-                <p class="card-text">The Raspberry Pi 2 Model B is the second-generation Raspberry Pi. It replaced the original Raspberry Pi 1 Model B+ in February 2015.</p>
+                <h5>39.99€</h5>
+                <p class="card-text">The infrared Camera Module v2 (Pi NoIR) replaced the original PiNoIR Camera Module in April 2016</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -173,13 +173,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi1-modelB+.jpg" alt="Raspberry Pi1 model B+"></a>
+              <a href="#"><img class="card-img-top" src="Images/pi-poE-hat.jpg" alt="Raspberry Pi PoE HAT"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi1 model B+</a>
+                  <a href="#">Raspberry Pi PoE HAT</a>
                 </h4>
-                <h5>35,99€</h5>
-                <p class="card-text">The Model B+ is the final revision of the original Raspberry Pi. It replaced the Model B in July 2014 and was superseded by the Raspberry Pi 2 Model B</p>
+                <h5>21,15€</h5>
+                <p class="card-text">The Raspberry Pi PoE HAT powers a Raspberry Pi 4 Model B and Raspberry Pi 3 Model B+ via an Ethernet cable. Power-sourcing equipment is required on the Ethernet network.</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -189,13 +189,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi1-model-A+.jpg" alt="Raspberry Pi1 model A+"></a>
+              <a href="#"><img class="card-img-top" src="Images/sense-hat.jpg" alt="Sense HAT"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi1 model A+</a>
+                  <a href="#">Sense HAT</a>
                 </h4>
-                <h5>39,99€</h5>
-                <p class="card-text">The Model A+ is the low-cost variant of the Raspberry Pi. It replaced the original Model A in November 2014.</p>
+                <h5>39,90€</h5>
+                <p class="card-text">The Sense HAT is an add-on board for Raspberry Pi, made especially for the Astro Pi mission</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -205,13 +205,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi-zero-w.jpg" alt="Raspberry Pi Zero W"></a>
+              <a href="#"><img class="card-img-top" src="Images/pi-universal-power-supply.jpg" alt="Raspberry Pi Universal Power Supply"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi Zero W</a>
+                  <a href="#">Raspberry Pi Universal Power Supply</a>
                 </h4>
-                <h5>29,99€</h5>
-                <p class="card-text">The Raspberry Pi Zero W extends the Pi Zero family and comes with added wireless LAN and Bluetooth connectivity.</p>
+                <h5>8,65€</h5>
+                <p class="card-text">The official universal micro USB power supply recommended for Raspberry Pi 1, 2 and 3</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -221,13 +221,61 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi-zero.jpg" alt="Raspberry Pi Zero"></a>
+              <a href="#"><img class="card-img-top" src="Images/pi-zero-case.jpg" alt="Raspberry Pi Zero Case"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi Zero</a>
+                  <a href="#">Raspberry Pi Zero Case</a>
                 </h4>
-                <h5>9,99€</h5>
-                <p class="card-text">The Raspberry Pi Zero is half the size of a Model A+, with twice the utility. A tiny Raspberry Pi that’s affordable enough for any project!</p>
+                <h5>6,90€</h5>
+                <p class="card-text">The Raspberry Pi Zero Case has been designed to fit both the Pi Zero and the Pi Zero W.</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="Images/pi-A+-case.jpg" alt="Raspberry Pi A+ Case"></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Raspberry Pi A+ Case</a>
+                </h4>
+                <h5>2,99€</h5>
+                <p class="card-text">The official case for the Raspberry Pi 3 Model A+ and the Raspberry Pi 1 Model A+</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="Images/pi-3-case.jpg" alt="Raspberry Pi 3 Case"></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Raspberry Pi 3 Case</a>
+                </h4>
+                <h5>4,99€</h5>
+                <p class="card-text">The official Raspberry Pi case for the Raspberry Pi 3 Model B and Model B+, available in red/white or black/grey</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="Images/pi-usb-wifi-dongle.jpg" alt="Raspberry Pi USB WiFi Dongle"></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Raspberry Pi USB WiFi Dongle</a>
+                </h4>
+                <h5>5,99€</h5>
+                <p class="card-text">The official universal USB WiFi dongle for Raspberry Pi. This product was announced as End of Life in January 2018.</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>

@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Hackers Poulette Shop</title>
+  <title>Hackers Poulette Contact</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,23 +55,25 @@
 <div class="col-lg-3">
 <form>
 <div class="form-group">
-<label for="name">Nom</label>
-<input type="text" id="name" class="form-control">
+<label for="name">Nom<abbr title="Ce champ est obligatoire">*</abbr></label>
+<input type="text" id="name" required name="title" class="form-control">
 </div>
 <div class="form-group">
-<label for="surname">Prénom</label>
-<input type="text" id="surname" class="form-control">
+<label for="surname">Prénom<abbr title="Ce champ est obligatoire">*</abbr></label>
+<input type="text" id="surname" required name="title" class="form-control">
 </div>
-<label class="form-group" class="radio-inline"><input type="radio" name="optradio" checked>Homme</label>
-<label class="form-group" class="radio-inline"><input type="radio" name="optradio">Femme</label>
-<label class="form-group" class="radio-inline"><input type="radio" name="optradio">Autre</label> 
+<fieldset>
+      <legend>Vous êtes<abbr title="Ce champ est obligatoire">*</abbr></legend>
+      <input type="radio" required name="title" id="r1" value="Mr"><label for="r1">M.</label>
+      <input type="radio" required name="title" id="r2" value="Ms"><label for="r2">Mme.</label>
+</fieldset>
 <div class="form-group" class="form-control">
-<label for="email">Email</label>
+<label for="email">Email<abbr title="Ce champ est obligatoire">*</abbr></label>
 <input type="text" id="email">
 </div>
 <div class="form-group">
-<label for="surname">Pays</label>
-<input type="text" id="country" class="form-control">
+<label for="surname">Pays<abbr title="Ce champ est obligatoire">*</abbr></label>
+<input type="text" id="country" required name="title" class="form-control">
 </div>
 <div class="dropdown">
 <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">sujet</button>
@@ -83,8 +85,8 @@
 </ul>
 </div>
 <div class="form-group">
-<label for="comment">Votre Message</label>
-<textarea class="form-control" id="comment"></textarea>
+<label for="comment">Votre Message<abbr title="Ce champ est obligatoire">*</abbr></label>
+<textarea class="form-control" required name="title" id="comment" name="msg" maxlength="140" rows="5"></textarea>
 </div>
 <button type="submit" class="btn btn-default"><img class="sendbutton" src="Images/sendicon.png" alt="bouton"></button>
 </form>

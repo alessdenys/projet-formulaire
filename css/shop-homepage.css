@@ -16,16 +16,34 @@ body {
   right: 13vw;
 }
 #logo {
-  margin-left: 33vw;
+  margin-left: 40vw;
 }
 .form-group {
   color: antiquewhite;
 }
+
+fieldset {
+  color: antiquewhite;
+  font-size: 1em;
+}
+
+legend {
+  font-size: 1em;
+}
+
 .sendbutton {
   width: 25%;
 }
 .img-left {
   float: left;
+}
+
+input:invalid {
+  box-shadow: 0 0 5px 1px red;
+}
+
+input:focus:invalid {
+  outline: none;
 }
 
 
@@ -44,4 +62,15 @@ body {
   font-weight: normal;
   font-style: normal;
 
+}
+
+@media only screen and (max-width: 386px){
+  #logo {
+    position: relative;
+    right: 60vw;
+  }
+  .logo{
+    position: relative;
+    right: 20vw;
+  }
 }

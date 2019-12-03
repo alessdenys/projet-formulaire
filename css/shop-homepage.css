@@ -23,6 +23,14 @@ body {
 .sendbutton {
   width: 25%;
 }
+.img-left {
+  float: left;
+}
+
+
+
+
+
 
 @font-face {
   font-family: 'bellotabold_italic';

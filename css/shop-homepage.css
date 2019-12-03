@@ -15,6 +15,22 @@ body {
   position: relative;
   right: 13vw;
 }
+#logo {
+  margin-left: 33vw;
+}
+.form-group {
+  color: antiquewhite;
+}
+.sendbutton {
+  width: 25%;
+}
+.img-left {
+  float: left;
+}
+
+
+
+
 
 
 @font-face {

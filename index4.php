@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Hackers Poulette News</title>
+  <title>Hackers Poulette Industrial Compute Module</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -93,13 +93,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/Raspberry Pi 4 Desktop Kit.jpg" alt="Raspberry Pi 4 Desktop Kit"></a>
+              <a href="#"><img class="card-img-top" src="Images/compute-module-developement-kit.jpg" alt="Compute Module Development Kit"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi 4 Desktop Kit</a>
+                  <a href="#">Compute Module Development Kit</a>
                 </h4>
-                <h5>109,99€</h5>
-                <p class="card-text">Full desktop computer kit - Just connect HDMI display</p>
+                <h5>23,26€</h5>
+                <p class="card-text">The Compute Module Development Kit for developing industrial applications</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -109,13 +109,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi-15.3-usb-c-adaptateur.jpg" alt="Raspberry Pi 15.3W adapter"></a>
+              <a href="#"><img class="card-img-top" src="Images/compute-module3.jpg" alt="Compute Module 3"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi 15.3W adapter</a>
+                  <a href="#">Compute Module 3</a>
                 </h4>
-                <h5>7.99€</h5>
-                <p class="card-text">The official and recommended USB-C power supply for Raspberry Pi 4</p>
+                <h5>44,99€</h5>
+                <p class="card-text">The Compute Module 3 is a Raspberry Pi 3 in a more flexible form factor, intended for industrial application</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -125,13 +125,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/pi-4-case.jpg" alt="Raspberry Pi 4 Case"></a>
+              <a href="#"><img class="card-img-top" src="Images/compute-module-1.jpg" alt="Compute Module 1"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Raspberry Pi 4 Case</a>
+                  <a href="#">Compute Module 1</a>
                 </h4>
-                <h5>9,99€</h5>
-                <p class="card-text">The official Raspberry Pi Case for Raspberry Pi 4</p>
+                <h5>59,99€</h5>
+                <p class="card-text">The Compute Module is a Raspberry Pi in a more flexible form factor, intended for industrial application</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -141,45 +141,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/micro-to-hdmi.jpg" alt="micro hdmi to hdmi adapter"></a>
+              <a href="#"><img class="card-img-top" src="Images/compute-modul-10-board-V3.jpg" alt="Compute Module IO Board V3"></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Micro Hdmi To Hdmi Adapter</a>
+                  <a href="#">Compute Module IO Board V3</a>
                 </h4>
-                <h5>5.99€</h5>
-                <p class="card-text">The offical Raspberry Pi Micro Hdmi To Hdmi Cable designed for Raspberry Pi 4 Computer</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/microB-to-usbC-adaptateur.jpg" alt="usb micro-B to usb-C adapter"></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Usb Micro-B To Usb-C Adapter</a>
-                </h4>
-                <h5>1.99€</h5>
-                <p class="card-text">Convert the output connector on a micro USB type B power supply to USB-C</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Images/3rd-beginner-guide.jpg" alt="Pi official guide 3rd edition"></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Pi Official Guide 3rd Edition</a>
-                </h4>
-                <h5>19.99€</h5>
-                <p class="card-text">Fully Updated For Raspberry Pi 4</p>
+                <h5>50,20€</h5>
+                <p class="card-text">The Compute Module IO Board V3 is a development kit for those who wish to make use of the Raspberry Pi in a more flexible form factor</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>

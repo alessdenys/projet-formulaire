@@ -50,6 +50,7 @@
         <img id="logo" src="Images/hackers-poulette-logo.png" alt="logo" class="logo">
   </div>
   <!-- Page Content -->
+  
   <section class="row justify-content-center">
 <div class="col-lg-3">
 <form>

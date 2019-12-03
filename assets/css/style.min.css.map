@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAC,CACF,MAAM,CAAE,GAAG,CACX,KAAK,CAAE,GAAG,CACb",
+    "sources": [
+        "../../vendor/bootstrap/css/style.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}

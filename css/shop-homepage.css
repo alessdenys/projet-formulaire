@@ -14,7 +14,15 @@ body {
   position: relative;
   right: 50%;
 }
-
+#logo {
+  margin-left: 33vw;
+}
+.form-group {
+  color: antiquewhite;
+}
+.sendbutton {
+  width: 25%;
+}
 
 @font-face {
   font-family: 'bellotabold_italic';

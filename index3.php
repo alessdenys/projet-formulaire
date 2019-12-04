@@ -35,7 +35,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
       </div>
@@ -51,10 +51,10 @@
 
         <img src="Images/hackers-poulette-logo.png" alt="logo" class="logo">
         <div class="list-group">
-          <a href="#" class="list-group-item">New Items</a>
-          <a href="#" class="list-group-item">Raspberry Pi Boards</a>
-          <a href="#" class="list-group-item">Raspberry Pi Accessories</a>
-          <a href="#" class="list-group-item">Industrial Compute Module</a>
+          <a href="index.php" class="list-group-item">New Items</a>
+          <a href="index2.php" class="list-group-item">Raspberry Pi Boards</a>
+          <a href="index3.php" class="list-group-item">Raspberry Pi Accessories</a>
+          <a href="index4.php" class="list-group-item">Industrial Compute Module</a>
         </div>
 
       </div>
@@ -298,7 +298,7 @@
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+      <p class="m-0 text-center text-white">Copyright &copy; Hackers Poulette 2019</p>
     </div>
     <!-- /.container -->
   </footer>

@@ -33,7 +33,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home
+            <a class="nav-link" href="index.php">Home
             </a>
           </li>
           <li class="nav-item">
@@ -68,7 +68,7 @@
       <input type="radio" required name="title" id="r2" value="Ms"><label for="r2">Mme.</label>
 </fieldset>
 <div class="form-group" class="form-control">
-<label for="email">Email<abbr title="Ce champ est obligatoire">*</abbr></label>
+<label for="email">Email</label>
 <input type="text" id="email">
 </div>
 <div class="form-group">

@@ -65,8 +65,8 @@
 </div>
 <fieldset>
       <legend>Vous êtes<abbr title="Ce champ est obligatoire">*</abbr></legend>
-      <input type="radio" required name="title" id="r1" value="Mr"><label for="r1">M.</label>
-      <input type="radio" required name="title" id="r2" value="Ms"><label for="r2">Mme.</label>
+      <input class="gender" type="radio" required name="title" id="r1" value="Mr"><label for="r1">M.</label>
+      <input class="gender" type="radio" required name="title" id="r2" value="Ms"><label for="r2">Mme.</label>
 </fieldset>
 <div class="form-group" class="form-control">
 <label for="email">Email</label>

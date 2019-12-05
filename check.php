@@ -1,15 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>checking</title>
+</head>
+<body>
 <?php
+// define variables and set to empty values
+$name = $email = $surname = $country = "";
+$nameErr = $emailErr = $surnameErr = $countryErr = "";
 
-$nameBrut = $_POST['name'];
-$name=filter_var($nameBrut, FILTER_SANITIZE_STRING);
+  if (empty($_POST["name"])) {
+    $nameErr = "Name is required";
+  } else {
+    $name = test_input($_POST["name"]);
+  }
 
-$emailBrut= $_POST['email'];
-$email = filter_var ($emailBrut, FILTER_SANITIZE_EMAIL);
+  if (empty($_POST["email"])) {
+    $emailErr = "Email is required";
+  } else {
+    $email = test_input($_POST["email"]);
+  }
 
-$countryBrut = $_POST['country'];
-$country = filter_var($countryBrut, FILTER_SANITIZE_STRING);
+  if (empty($_POST["surname"])) {
+    $surnameErr = "surname is required";
+  } else {
+    $surname = test_input($_POST["surname"]);
+  }
 
-$messageBrut = $_POST['message'];
-$message=filter_var($messageBrut, FILTER_SANITIZE_STRING);
+  if (empty($_POST["country"])) {
+    $countryErr = "country is required";
+  } else {
+    $country = test_input($_POST["country"]);
+  }
+
+
+
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+  }
 
 ?>
+
+<p> <?php echo "$name" ?></p>
+</body>
+</html>
+

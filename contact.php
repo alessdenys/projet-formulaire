@@ -57,11 +57,11 @@
 <form method="post" action="check.php">
 <div class="form-group">
 <label for="name">Nom<abbr title="Ce champ est obligatoire">*</abbr></label>
-<input type="text" id="name" required name="title" class="form-control">
+<input type="text" id="name" name="name" required name="title" class="form-control">
 </div>
 <div class="form-group">
 <label for="surname">Prénom<abbr title="Ce champ est obligatoire">*</abbr></label>
-<input type="text" id="surname" required name="title" class="form-control">
+<input type="text" id="surname" name="surname" required name="title" class="form-control">
 </div>
 <fieldset>
       <legend>Vous êtes<abbr title="Ce champ est obligatoire">*</abbr></legend>
@@ -71,11 +71,11 @@
 </fieldset>
 <div class="form-group" class="form-control">
 <label for="email">Email</label>
-<input type="text" id="email">
+<input type="text" id="email" name="email" required name="title">
 </div>
 <div class="form-group">
 <label for="surname">Pays<abbr title="Ce champ est obligatoire">*</abbr></label>
-<input type="text" id="country" required name="title" class="form-control">
+<input type="text" id="country" name="country" required name="title" class="form-control">
 </div>
 <div class="dropdown">
 <div class="form-group">
@@ -88,7 +88,7 @@
   </select>
 </div> 
 <div class="form-group">
-<label for="comment">Votre Message<abbr title="Ce champ est obligatoire">*</abbr></label>
+<label for="message">Votre Message<abbr title="Ce champ est obligatoire">*</abbr></label>
 <textarea class="form-control" required name="title" id="message" name="message" maxlength="140" rows="5"></textarea>
 </div>
 <button type="submit" class="btn btn-default"><img class="sendbutton" src="Images/sendicon.png" alt="bouton"></button>

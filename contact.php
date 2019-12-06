@@ -77,11 +77,11 @@
 </fieldset>
 <div class="form-group" class="form-control">
 <label for="email">Email</label>
-<input type="text" id="email" name="email" required name="title">
+<input type="text" id="email" name="email" required placeholder="title">
 </div>
 <div class="form-group">
 <label for="surname">Pays<abbr title="Ce champ est obligatoire">*</abbr></label>
-<input type="text" id="country" name="country" required name="title" class="form-control">
+<input type="text" id="country" name="country" required placeholder="title" class="form-control">
 </div>
 <div class="dropdown">
 <div class="form-group">
@@ -95,7 +95,7 @@
 </div> 
 <div class="form-group">
 <label for="message">Votre Message<abbr title="Ce champ est obligatoire">*</abbr></label>
-<textarea class="form-control" required name="title" id="message" name="message" maxlength="140" rows="5"></textarea>
+<textarea class="form-control" required placeholder="title" id="message" name="message" maxlength="140" rows="5"></textarea>
 </div>
 <button type="submit" class="btn btn-default"><img class="sendbutton" src="Images/sendicon.png" alt="bouton"></button>
 </form>

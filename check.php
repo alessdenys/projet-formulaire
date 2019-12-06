@@ -76,8 +76,13 @@ function test_input($data) {
   elseif (sizeof($honey) == 5) {
     $headers = 'From:'. $email . "rn"; // Sender's Email
     $headers .= 'Cc:'. $email . "rn"; // Carbon copy to Sender
-    $message = wordwrap($message, 70);
-    mail("hackerspoullette@gmail.com", $message, $headers);
+    $messageSend = '
+      Nom-Prénom : ' .$name.'
+      Pays: ' .$country.'
+      Email: ' .$email.'
+      Message: ' .$message.'';
+
+    mail("hackerspoullette@gmail.com", "Formulaire de contact",$messageSend, $headers);
         echo "Your mail has been sent successfuly ! Thank you for your feedback";
   }
   else{

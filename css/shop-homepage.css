@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
- */
 body {
   padding-top: 56px;
   background-color: #303030;
@@ -13,35 +8,71 @@ body {
   height: 500px;
   width: 500px;
   position: relative;
-  right: 50%;
+  right: 13vw;
 }
+
 #logo {
-  margin-left: 33vw;
+  margin-left: 40vw;
 }
+
 .form-group {
   color: antiquewhite;
 }
+
+fieldset {
+  color: antiquewhite;
+  font-size: 1em;
+}
+
+legend {
+  font-size: 1em;
+}
+
 .sendbutton {
   width: 25%;
 }
+
 .img-left {
   float: left;
 }
 
+input:invalid {
+  -webkit-box-shadow: 0 0 5px 1px red;
+          box-shadow: 0 0 5px 1px red;
+}
 
+input:focus:invalid {
+  outline: none;
+}
 
-
-
+input[type=text],
+input[type=email],
+textarea,
+fieldset {
+  -webkit-appearance: none;
+  width: 100%;
+  border: 1px solid #333;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
 
 @font-face {
   font-family: 'bellotabold_italic';
-  src: url('Bellota-BoldItalic-webfont.eot');
-  src: url('Bellota-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
-       url('Bellota-BoldItalic-webfont.woff2') format('woff2'),
-       url('Bellota-BoldItalic-webfont.woff') format('woff'),
-       url('Bellota-BoldItalic-webfont.ttf') format('truetype'),
-       url('Bellota-BoldItalic-webfont.svg#bellotabold_italic') format('svg');
+  src: url("Bellota-BoldItalic-webfont.eot");
+  src: url("Bellota-BoldItalic-webfont.eot?#iefix") format("embedded-opentype"), url("Bellota-BoldItalic-webfont.woff2") format("woff2"), url("Bellota-BoldItalic-webfont.woff") format("woff"), url("Bellota-BoldItalic-webfont.ttf") format("truetype"), url("Bellota-BoldItalic-webfont.svg#bellotabold_italic") format("svg");
   font-weight: normal;
   font-style: normal;
-
 }
+
+@media only screen and (max-width: 386px) {
+  #logo {
+    position: relative;
+    right: 60vw;
+  }
+  .logo {
+    position: relative;
+    right: 20vw;
+  }
+}
+/*# sourceMappingURL=shop-homepage.css.map */

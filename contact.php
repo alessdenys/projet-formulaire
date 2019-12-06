@@ -55,6 +55,12 @@
   <section class="row justify-content-center">
 <div class="col-lg-3">
 <form method="post" action="check.php">
+
+<div class="form-group">
+<label for="nickname"><abbr title="Ce champ est obligatoire"></abbr></label>
+<input type="hidden" id="nickname" name="nickname">
+</div>
+
 <div class="form-group">
 <label for="name">Nom<abbr title="Ce champ est obligatoire">*</abbr></label>
 <input type="text" id="name" name="name" required name="title" class="form-control">

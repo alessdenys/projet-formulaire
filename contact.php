@@ -86,11 +86,11 @@
 <div class="dropdown">
 <div class="form-group">
   <label for="sel1">Sujet</label>
-  <select class="form-control" id="sel1">
-    <option>Autre</option>
-    <option>Réclamation</option>
-    <option>Question sur nos produit</option>
-    <option>Avis/recommandations</option>
+  <select class="form-control" id="sel1" multiple="oui"> //multiple oui et valeur oui pour select plusieurs options
+    <option valeur="oui">Autre</option>
+    <option valeur="oui">Réclamation</option>
+    <option valeur="oui">Question sur nos produit</option>
+    <option valeur="oui">Avis/recommandations</option>
   </select>
 </div> 
 <div class="form-group">
